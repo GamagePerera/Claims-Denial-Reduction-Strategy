@@ -21,4 +21,4 @@ Tableau Dashboard Link:
 [Medicare Claims Insights Dashboard](https://public.tableau.com/app/profile/chami.perera/viz/MedicareClaimsInsightsDashboard/ClaimsAnalysisApprovalErrors)
 
 Dashboard Preview (https://github.com/GamagePerera/Meicare-Claims-Analysis/blob/main/Image.png)
-![Medicare Claims Dashboard](PASTE-YOUR-IMAGE-LINK-HERE)
+![Medicare Claims Dashboard](https://github.com/GamagePerera/Medicare-Claims-Analysis/blob/main/Image.png?raw=true)
