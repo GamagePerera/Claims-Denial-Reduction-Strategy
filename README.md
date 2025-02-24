@@ -1,5 +1,8 @@
 # Medicare-Claims-Analysis
-This project analyzes Medicare claims data using SQL, Excel, and Tableau to identify approval rates, common errors, and provider performance
+This project analyzes Medicare claims data using SQL, Excel, and Tableau to identify approval rates, common errors, and provider performance.
+
+Business Problem :
+This project focuses on analyzing Medicare claims data to identify common errors, provider performance, and claim approval trends. The goal is to improve claim processing efficiency and reduce unnecessary denials.
 
 Key Insights from the Analysis
 
