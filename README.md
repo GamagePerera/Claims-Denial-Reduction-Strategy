@@ -22,5 +22,4 @@ Tableau Dashboard Link:
 
 Dashboard Preview (https://github.com/GamagePerera/Meicare-Claims-Analysis/blob/main/Image.png)
 
-(Image.png)
-Image.png
+
